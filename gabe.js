@@ -50,3 +50,22 @@ function intersection(nums1, nums2) {
     }
     return resultArray;
 }
+
+
+// Feedback
+
+// Good: 
+// Glad you’re writing down English behaviors! 
+// Loop for each array 1 and array 2
+// Check to see if they’re equal throughout the loops
+// You did a great job talking through what your solution was 
+// Great job explaining your thought process with constructing your loop itself 
+// Love that you brought up best practice and knowing what you think it is. 
+// Glad you caught that you need something to hold your answer(output variable)
+// “I’ll come back to that”!IT’s great!
+// You can put pseudocode and move on, which is basically what you did.Lean on saying it’s pseudocode!
+
+// Improvement:
+// When you’re asking about edge cases, make sure that you’re looking at the prompt and understanding what your inputs and outputs might be.Through discussing the prompt, you can discover what sorts of edge cases your own mind might go to.An interview won’t supply those for you
+// You don’t need to apologize for anything :)
+
